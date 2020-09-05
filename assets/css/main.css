@@ -2643,7 +2643,9 @@ input, select, textarea {
 			}
 
 			.image.main img {
+
 				width: 100%;
+
 			}
 
 		@media screen and (max-width: 736px) {
@@ -4385,7 +4387,7 @@ input, select, textarea {
 	#copyright {
 		color: #ffffff;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: black;
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4444,6 +4446,7 @@ input, select, textarea {
 			list-style: none;
 			margin: 0;
 			padding-left: 0;
+
 		}
 
 			#copyright ul li {
